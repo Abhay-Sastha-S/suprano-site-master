@@ -71,7 +71,8 @@ import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
 import bal from "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 4.jpg"
 
 import snc from "./assets/images/abhay update/IMG_5750.jpg"
-import palantir from  "./assets/images/abhay update/IMG_5761.jpg"
+import palantir from  "./assets/images/abhay update/1FDEC4B9-7D69-4811-BA44-006DEEE01E79.jpg"
+import palantir1 from "./assets/images/abhay update/9F395BC5-23EF-4DD5-9146-00E5AD6341C7.jpg"
 import synqor from  "./assets/images/abhay update/IMG_5773.jpg"
 import cen from './assets/images/abhay update/IMG_5756.jpg'
 import dis from  './assets/images/abhay update/IMG_5771.jpg'
@@ -83,14 +84,14 @@ export const grid_items = [
         desc: "DSEI 2023-London",
         video: "",
         class: "main",
-        img_lis: [palantir]
+        img_lis: [palantir,palantir1]
     },
     {
         image:dis,
         title: "DISPEL",
         desc: "DSEI 2023-London",
         video: "",
-        class: "small",
+        class: "main",
         img_lis: [dis]
     },
     {
